@@ -1,8 +1,8 @@
-:root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+<div><br class="Apple-interchange-newline">:root {
+    --cor-de-fundo: #00CED1;
+    --verde: #00FF7F;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #00FF7F;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
@@ -75,4 +75,4 @@ body {
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-}
+}</div>
