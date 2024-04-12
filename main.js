@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll(".botao");
+<div><br class="Apple-interchange-newline">const <span zeum4c8="PR_1_0" data-ddnwab="PR_1_0" aria-invalid="spelling" class="LI ng">botoes</span> = document.querySelectorAll(".botao");
 
 //Iterando sobre a lista de botões
 for(let i=0; i<botoes.length; i++){
@@ -8,5 +8,4 @@ for(let i=0; i<botoes.length; i++){
         }
       botoes[i].classList.add("ativo");
     };
-}
-
+}</div>
